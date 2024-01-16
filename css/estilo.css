@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 body{
     background-image: url("fundo_site3.jpg");
 }
@@ -52,5 +54,11 @@ div.caixa-index a{
 }
 
 div.texto{
+    background-color: rgb(255, 255, 255, 0.3);
+}
+
+div.voltar{
+    color: #000000;
+    font-size: 30px;
     background-color: rgb(255, 255, 255, 0.3);
 }
